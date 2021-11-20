@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @HoseinAsgari
-- 👀 I’m interested in codding.
-- 🌱 I’m currently learning English language, C#, Asp.net Core, Javascript, Html, Css, Bootstrap and Sql Server.
+
+- I am a web developer and the technology that I work is Asp.net core.
+- I can write sql, python, html, css and javascript codes but they are not my main activity.
+- Also I can work with Adobe Premiere, Adobe Photoshop and Adobe Audition.
+- I know bash script and git commands a little.
+
 - 📫 hosein.asgari.00@gmail.com
 
 <!---
